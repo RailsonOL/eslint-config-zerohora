@@ -19,7 +19,7 @@ npm i -D eslint RailsonOL/eslint-config-zerohora
 ```
 {
   "extends": "@zerohora/eslint-config/react"
-  // "extends": "@rocketseat/eslint-config/node"
+  // "extends": "@zerohora/eslint-config/node"
 }
 ```
 
