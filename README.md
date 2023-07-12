@@ -12,7 +12,7 @@
 
 1. Install the dependencies
 ```
-npm i -D eslint RailsonOL/eslint-config-zerohora
+npm i -D eslint zerohora00h/eslint-config
 ```
 
 2. Create a `.eslintrc.json` file extending the config:
